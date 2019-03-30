@@ -1,2 +1,3 @@
 #ProjectCodes
-采用的是jintian
+采用的是jintian写的基于RNN的诗词预测
+与自己接下来研究的方向很相似，拿到自己的论文中研究其框架，代码中有自己的解释部分，主题代码是jintian所写。
